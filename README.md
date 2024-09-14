@@ -1,7 +1,7 @@
 ## Welcome to my profile
 
 - 🌱 I’m currently studying Software Engineering.
-- 📫 How to reach me: Jimoon@gachon.ac.kr
+- 📫 How to reach me: jimoon@gachon.ac.kr
 - 😄 Pronouns: You can call me Jimoon :)
 <!--
 **JIM00N/JIM00N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
