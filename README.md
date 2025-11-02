@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-- 🌱 I’m currently studying Software Engineering.
+- 🌱 I’m currently studying Software Engineering & Mathematics
 - 📫 How to reach me: jimoon@gachon.ac.kr
 - 😄 Pronouns: You can call me Jimoon :)
 <!--
